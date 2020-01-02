@@ -9,8 +9,6 @@ from sklearn.neighbors import kneighbors_graph
 import pandas as pd 
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import f_classif
-from sklearn import preprocessing
-from sklearn.preprocessing import MinMaxScaler
 from scipy.spatial import distance as dt
 import warnings
 
