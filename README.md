@@ -1,6 +1,6 @@
 # Experimentos_Mestrado
 
-This project stores the code used in the experiments of my Master's at UNIFESP.
+This project stores the code used in the experiments for my Master's at UNIFESP.
 
 It includes the following files:
   - app_algoritmos.py (classification code);
